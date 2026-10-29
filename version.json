@@ -1,0 +1,7 @@
+{
+  "versionName": "1.3.5",
+  "versionCode": 2019,
+  "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
+  "notes": "Novità: da ora l'app ti avvisa da sola quando esce un aggiornamento e lo installa con un tocco.",
+  "force": false
+}
